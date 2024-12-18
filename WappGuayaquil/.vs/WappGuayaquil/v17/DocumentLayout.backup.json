@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rene\\DESARROLLO\\Proyectos\\Proyecto_IngBGuayaquil\\WappGuayaquilPrueba\\WappGuayaquil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D17C121A-B162-4648-9B85-93811FEBDADB}|WappGuayaquil.csproj|c:\\rene\\desarrollo\\proyectos\\proyecto_ingbguayaquil\\wappguayaquilprueba\\wappguayaquil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17C121A-B162-4648-9B85-93811FEBDADB}|WappGuayaquil.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCF7E77-1083-41AF-8420-ADCF07EC8026}|..\\PrBancoGuayaquilDto\\PrBancoGuayaquilDto.csproj|c:\\rene\\desarrollo\\proyectos\\proyecto_ingbguayaquil\\wappguayaquilprueba\\prbancoguayaquildto\\personaesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17C121A-B162-4648-9B85-93811FEBDADB}|WappGuayaquil.csproj|c:\\rene\\desarrollo\\proyectos\\proyecto_ingbguayaquil\\wappguayaquilprueba\\wappguayaquil\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D17C121A-B162-4648-9B85-93811FEBDADB}|WappGuayaquil.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17C121A-B162-4648-9B85-93811FEBDADB}|WappGuayaquil.csproj|c:\\rene\\desarrollo\\proyectos\\proyecto_ingbguayaquil\\wappguayaquilprueba\\wappguayaquil\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17C121A-B162-4648-9B85-93811FEBDADB}|WappGuayaquil.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17C121A-B162-4648-9B85-93811FEBDADB}|WappGuayaquil.csproj|c:\\rene\\desarrollo\\proyectos\\proyecto_ingbguayaquil\\wappguayaquilprueba\\wappguayaquil\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17C121A-B162-4648-9B85-93811FEBDADB}|WappGuayaquil.csproj|solutionrelative:controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17C121A-B162-4648-9B85-93811FEBDADB}|WappGuayaquil.csproj|c:\\rene\\desarrollo\\proyectos\\proyecto_ingbguayaquil\\wappguayaquilprueba\\wappguayaquil\\utilities\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17C121A-B162-4648-9B85-93811FEBDADB}|WappGuayaquil.csproj|solutionrelative:utilities\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Rene\\DESARROLLO\\Proyectos\\Proyecto_IngBGuayaquil\\WappGuayaquilPrueba\\WappGuayaquil\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Rene\\DESARROLLO\\Proyectos\\Proyecto_IngBGuayaquil\\WappGuayaquilPrueba\\WappGuayaquil\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:53:14.119Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonaEsDto.cs",
+              "DocumentMoniker": "C:\\Rene\\DESARROLLO\\Proyectos\\Proyecto_IngBGuayaquil\\WappGuayaquilPrueba\\PrBancoGuayaquilDto\\PersonaEsDto.cs",
+              "RelativeDocumentMoniker": "..\\PrBancoGuayaquilDto\\PersonaEsDto.cs",
+              "ToolTip": "C:\\Rene\\DESARROLLO\\Proyectos\\Proyecto_IngBGuayaquil\\WappGuayaquilPrueba\\PrBancoGuayaquilDto\\PersonaEsDto.cs",
+              "RelativeToolTip": "..\\PrBancoGuayaquilDto\\PersonaEsDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wCoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:16:15.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Rene\\DESARROLLO\\Proyectos\\Proyecto_IngBGuayaquil\\WappGuayaquilPrueba\\WappGuayaquil\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Rene\\DESARROLLO\\Proyectos\\Proyecto_IngBGuayaquil\\WappGuayaquilPrueba\\WappGuayaquil\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "Controllers\\PersonaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:05:33.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Rene\\DESARROLLO\\Proyectos\\Proyecto_IngBGuayaquil\\WappGuayaquilPrueba\\WappGuayaquil\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Rene\\DESARROLLO\\Proyectos\\Proyecto_IngBGuayaquil\\WappGuayaquilPrueba\\WappGuayaquil\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowCsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T05:10:06.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Rene\\DESARROLLO\\Proyectos\\Proyecto_IngBGuayaquil\\WappGuayaquilPrueba\\WappGuayaquil\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Rene\\DESARROLLO\\Proyectos\\Proyecto_IngBGuayaquil\\WappGuayaquilPrueba\\WappGuayaquil\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T13:38:06.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\Rene\\DESARROLLO\\Proyectos\\Proyecto_IngBGuayaquil\\WappGuayaquilPrueba\\WappGuayaquil\\Utilities\\Utilidades.cs",
+              "RelativeDocumentMoniker": "Utilities\\Utilidades.cs",
+              "ToolTip": "C:\\Rene\\DESARROLLO\\Proyectos\\Proyecto_IngBGuayaquil\\WappGuayaquilPrueba\\WappGuayaquil\\Utilities\\Utilidades.cs",
+              "RelativeToolTip": "Utilities\\Utilidades.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAWwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T23:56:29.061Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@WappGuayaquil_HostAddress = http://localhost:5119
+
+GET {{WappGuayaquil_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

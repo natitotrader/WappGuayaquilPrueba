@@ -1,0 +1,15 @@
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDto\bin\Debug\net8.0\PrBancoGuayaquilDto.deps.json
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDto\bin\Debug\net8.0\PrBancoGuayaquilDto.dll
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDto\bin\Debug\net8.0\PrBancoGuayaquilDto.pdb
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDto\bin\Debug\net8.0\PrBancoGuayaquilDb.dll
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDto\bin\Debug\net8.0\PrBancoGuayaquilDb.pdb
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDto\obj\Debug\net8.0\PrBancoGuayaquilDto.csproj.AssemblyReference.cache
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDto\obj\Debug\net8.0\PrBancoGuayaquilDto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDto\obj\Debug\net8.0\PrBancoGuayaquilDto.AssemblyInfoInputs.cache
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDto\obj\Debug\net8.0\PrBancoGuayaquilDto.AssemblyInfo.cs
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDto\obj\Debug\net8.0\PrBancoGuayaquilDto.csproj.CoreCompileInputs.cache
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDto\obj\Debug\net8.0\PrBancoG.B00DB267.Up2Date
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDto\obj\Debug\net8.0\PrBancoGuayaquilDto.dll
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDto\obj\Debug\net8.0\refint\PrBancoGuayaquilDto.dll
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDto\obj\Debug\net8.0\PrBancoGuayaquilDto.pdb
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDto\obj\Debug\net8.0\ref\PrBancoGuayaquilDto.dll

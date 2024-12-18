@@ -1,0 +1,12 @@
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDb\bin\Debug\net8.0\PrBancoGuayaquilDb.deps.json
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDb\bin\Debug\net8.0\PrBancoGuayaquilDb.dll
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDb\bin\Debug\net8.0\PrBancoGuayaquilDb.pdb
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDb\obj\Debug\net8.0\PrBancoGuayaquilDb.csproj.AssemblyReference.cache
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDb\obj\Debug\net8.0\PrBancoGuayaquilDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDb\obj\Debug\net8.0\PrBancoGuayaquilDb.AssemblyInfoInputs.cache
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDb\obj\Debug\net8.0\PrBancoGuayaquilDb.AssemblyInfo.cs
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDb\obj\Debug\net8.0\PrBancoGuayaquilDb.csproj.CoreCompileInputs.cache
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDb\obj\Debug\net8.0\PrBancoGuayaquilDb.dll
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDb\obj\Debug\net8.0\refint\PrBancoGuayaquilDb.dll
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDb\obj\Debug\net8.0\PrBancoGuayaquilDb.pdb
+C:\Rene\DESARROLLO\Proyectos\Proyecto_IngBGuayaquil\WappGuayaquilPrueba\PrBancoGuayaquilDb\obj\Debug\net8.0\ref\PrBancoGuayaquilDb.dll

@@ -1,0 +1,10 @@
+﻿Pasos de la Aplicacion
+a.- Descrgar aplicacion a la carpeta C/WappGuayaquilPrueba
+b.- Ejecutar Scripts de la carpeta "BaseDatos/Script" en el siguiente orden
+	1- Crear base de datos "PrBancoGuayaquil" con el archivo "1CrearBaseDatos"
+	2- Crear tablas con el archivo "2TablasPrBancoGuayaquil"
+	3- Crear StoreProcedure	 con el archivo "3sp_consulta_persona"
+c.- La aplicacion utiliza como repositorio DOCKER
+c.- Abrir la solucion Microsoft Visual Estudio 2022 carpeta "WappGuayaquil"
+d.- Cambiar el string de conexion
+	
